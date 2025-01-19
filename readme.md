@@ -1,7 +1,7 @@
-# Develop AI solutions with Azure OpenAI
+# Azure OpenAIでAIソリューションを開発する
 
-This repo contains the instructions and assets required to complete the exercises in the [Develop AI solutions with Azure OpenAI](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/) learning path on Microsoft Learn.
+このリポジトリには、Microsoft Learnの[Azure OpenAIでAIソリューションを開発する](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/)学習パスの演習を完了するために必要な指示と資産が含まれています。
 
-### Reporting issues
+### 問題の報告について
 
-If you encounter any problems in the exercises, please report them as **issues** in this repo.
+演習中に問題が発生した場合は、このリポジトリの**Issue**として報告してください。

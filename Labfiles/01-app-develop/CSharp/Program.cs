@@ -59,6 +59,8 @@ do {
 
 private static void GetResponseFromOpenAI(string systemMessage, string userMessage)  
 {   
+    // Format and send the request to the model
+
     Console.WriteLine("\nSending prompt to Azure OpenAI endpoint...\n\n");
 
     if(string.IsNullOrEmpty(oaiEndpoint) || string.IsNullOrEmpty(oaiKey) || string.IsNullOrEmpty(oaiDeploymentName) )
